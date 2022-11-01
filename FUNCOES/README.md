@@ -9,11 +9,14 @@ function indetifier(param) {
 }
 ```
 
+See : https://github.com/bennarthurdev/JavaScript/blob/main/FUNCOES/declaringFunctions.js for for more ways to declare functions
+
+
 identifier - Function name, you will use this name to call this procedure elsewhere in your application
 param - identifier list of object
 
 
-- Functions in JavaScript are objects
+- Functions in JavaScript are first-class objects
 
 - Functions defined inside objects are called methods
 
